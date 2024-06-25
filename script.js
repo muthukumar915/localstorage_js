@@ -5,7 +5,6 @@ function get(){
     var d=document.getElementById("data4").value;
     var e=document.getElementById("data5").value;
    
-
     localStorage.setItem("data1",a);
     localStorage.setItem("data2",b);
     localStorage.setItem("data3",c);
